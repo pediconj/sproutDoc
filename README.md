@@ -1,3 +1,3 @@
 # comp398final
 
-Jace Pedicone's COMP398 final project: an app that allows you to upload a photo of your outfit, where it is stored in a persistent database and can be recalled from a list of entries. The photo is stored alongside the weather conditions of the day the photo was uploaded, and is fetched using weather APIs and the device's location. This list can be filtered by year, month, or weather conditions of that day (sunny, cloudy, rainy, etc.).
+Jace Pedicone's COMP398 (updated) final project: plant watering tracker! a user will add their plants (growth progess photos, custom name, description, etc) and a call to Perenual API (https://perenual.com) will return the watering interval. the user's plants will be displayed as tiles in a list and a progess bar will indicate how long until the plant needs watered again, along with a date that water is needed next.
